@@ -1,4 +1,4 @@
-### Hola, I'm Varshitha! 👋
+### Hi there 👋, I'm Varshitha! 
 
 
 - ⚡ I am Python Developer
