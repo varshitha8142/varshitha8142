@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Varshitha!</h1>
-<a href=https://assets.leetcode.com/users/images/fcda8541-fcd0-44c6-b65a-324c09c95223_1643608046.9153721.gif/></a>
+https://assets.leetcode.com/users/images/fcda8541-fcd0-44c6-b65a-324c09c95223_1643608046.9153721.gif
 <h3 align="center">Python Developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshitha8142&label=Profile%20views&color=0e75b6&style=flat" alt="varshitha8142" /> </p>
