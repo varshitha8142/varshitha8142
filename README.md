@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Varshitha!</h1>
-<h3 align="center">Python Developer</h3>
+<h1 align="center"> I'm Varshitha!</h1>
+<h1 align="center">Python Developer</h1>
 <img src=https://assets.leetcode.com/users/images/c8acfcbc-a03c-42d1-a125-c745fadb6618_1643607973.8599598.gif>
 <img src=https://assets.leetcode.com/users/images/fcda8541-fcd0-44c6-b65a-324c09c95223_1643608046.9153721.gif>
 
