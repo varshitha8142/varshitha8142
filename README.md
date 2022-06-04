@@ -1,6 +1,7 @@
 <h1 align="center"> I'm Varshitha!</h1>
 <h2 align="center">Python Developer</h2>
-<img src=https://assets.leetcode.com/users/images/c8acfcbc-a03c-42d1-a125-c745fadb6618_1643607973.8599598.gif>
+
+<img src=https://assets.leetcode.com/users/images/c34e062c-8e9c-4b89-b711-884be7576a1a_1645851920.0703163.gif>
 <img src=https://assets.leetcode.com/users/images/fcda8541-fcd0-44c6-b65a-324c09c95223_1643608046.9153721.gif>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshitha8142&label=Profile%20views&color=0e75b6&style=flat" alt="varshitha8142" /> </p>
