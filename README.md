@@ -6,9 +6,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=varshitha8142&label=Profile%20views&color=0e75b6&style=flat" alt="varshitha8142" /> </p>
 
-- 🌱 I’m currently learning **Machine Learning and Data Science**
-
-- 🤝 I’m looking for help with **Machine Learning**
+- 🌱 I’m currently learning **DSA**
 
 - 💬 Ask me about **Python and Web Development**
 
